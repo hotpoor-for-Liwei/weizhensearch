@@ -19,8 +19,9 @@ a{
 .weizhen_menus{
     display: flex;
     justify-content: flex-end;
-    width: 90%;
-    max-width: 760px;
+    width: 96%;
+    max-width: 800px;
+    margin-left: 2%;
 }
 .weizhen_menu{
     margin-left: 3px;
