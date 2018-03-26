@@ -13,8 +13,14 @@ a:active{
 a{
     text-decoration:none;
 }
+.weizhen_area{
+    width: 100%;
+}
 .weizhen_menus{
     display: flex;
+    justify-content: flex-end;
+    width: 90%;
+    max-width: 760px;
 }
 .weizhen_menu{
     margin-left: 3px;
