@@ -1,9 +1,12 @@
 .weizhen_menus{
-	display: flex;
+    display: flex;
+}
+.weizhen_menu{
+    margin-left: 3px;
+    margin-right: 3px;
+    color: black;
 }
 .menu_here{
-	margin-left: 3px;
-	margin-right: 3px;
     background-color:black;
     color: white;
 }
