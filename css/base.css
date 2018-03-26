@@ -19,9 +19,16 @@ a{
 .weizhen_menu{
     margin-left: 3px;
     margin-right: 3px;
+    padding: 3px 6px;
+    color: black;
+}
+.weizhen_menu>a{
     color: black;
 }
 .menu_here{
-    background-color:black;
+    background-color: black;
+    color: white;
+}
+.menu_here>a{
     color: white;
 }
