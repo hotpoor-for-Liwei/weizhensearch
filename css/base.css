@@ -1,3 +1,16 @@
+* {
+    outline: 0px solid transparent;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-touch-callout: none;
+}
+body{
+    font-family: "Helvetica Neue","Hiragino Sans GB","Microsoft YaHei","\9ED1\4F53",Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    background: rgba(245,245,245,1);
+    width: 100%;
+    height: auto;
+}
 a:link{
     text-decoration:none;
 }
