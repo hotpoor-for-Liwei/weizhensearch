@@ -1,15 +1,3 @@
-.weizhen_menus{
-    display: flex;
-}
-.weizhen_menu{
-    margin-left: 3px;
-    margin-right: 3px;
-    color: black;
-}
-.menu_here{
-    background-color:black;
-    color: white;
-}
 a:link{
     text-decoration:none;
 }
@@ -24,4 +12,16 @@ a:active{
 }
 a{
     text-decoration:none;
+}
+.weizhen_menus{
+    display: flex;
+}
+.weizhen_menu{
+    margin-left: 3px;
+    margin-right: 3px;
+    color: black;
+}
+.menu_here{
+    background-color:black;
+    color: white;
 }
